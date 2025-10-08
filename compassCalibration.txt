@@ -1,0 +1,18 @@
+# Calibration File for Star Gazer
+# Location: My Bedroom
+# This file contains calibration data.
+# Please do not modify unless you know what you're doing.
+# Line 5
+# Line 6
+# Line 7
+# Line 8
+# Line 9
+# Line 10
+# Line 11
+# Line 12
+# Line 13
+1072.0878000390335   # x_offset value
+# Separator or comment
+3430.167796963848  # y_offset value
+# Separator or comment
+3089.9546011653456   # z_offset value
